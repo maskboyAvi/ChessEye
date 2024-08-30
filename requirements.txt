@@ -1,0 +1,6 @@
+tensorflow==2.10.0
+pillow==9.2.0
+roboflow
+flask
+flask_cors
+pyclipper
