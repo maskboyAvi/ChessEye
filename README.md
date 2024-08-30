@@ -1,7 +1,5 @@
 <a name="readme-top"></a>
-
 <!-- PROJECT LOGO -->
-<br />
 <h1 align="center">ChessEye: Chessboard Detection and FEN Generation from Images</h1>
 <div align="center">
   <a href="https://github.com/maskboyAvi/ChessEye">
@@ -49,8 +47,8 @@
 **ChessEye** leverages advanced computer vision and deep learning techniques to detect chessboards from images or camera feeds and convert them into FEN strings. This project helps chess enthusiasts and developers in accurately analyzing game states from various visual sources, facilitating game analysis, record-keeping, and AI development.
 
 <p align="center">
-  <img src="assets/ss1.png" alt="ChessEye Camera" style="width: 50%; height: auto;">
-  <img src="assets/ss2.png" alt="ChessEye Screenshot" style="width: 50%; height: auto;">
+  <img src="assets/ss1.png" alt="ChessEye Camera" style="width: 40%; height: 500px;">
+  <img src="assets/ss2.png" alt="ChessEye Screenshot" style="width: 40%; height: 500px;">
 </p>
 
 
@@ -125,8 +123,10 @@ ChessEye is licensed under the MIT license. For more information, please see the
 <p align="right">(<a href="#readme-top">back to top</a>)</p> <h2 id="contributing"> Contributing </h2>
 We welcome contributions! For detailed instructions on how to contribute, please refer to the Contributing Guide in our documentation.
 
-<p align="right">(<a href="#readme-top">back to top</a>)</p> <h2 id="team"> Meet the Developer </h2>
-Aviral Katiyar
+<h2 id="team"> Meet the Developer </h2>
+
+- [Aviral Katiyar](https://github.com/maskboyAvi)
+
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
 
